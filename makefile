@@ -1,3 +1,5 @@
+.PHONY default say_hello say_bye check_folder
+
 default: say_bye check_folder
 
 cmd = ls -al
